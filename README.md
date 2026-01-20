@@ -1,5 +1,4 @@
 # Calculator-with-React
-Coursera - React
 
 This repository contains projects created while learning React through Coursera. The goal is to practice and reinforce the course material by building multiple small projects.
 
